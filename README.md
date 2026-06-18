@@ -1,4 +1,5 @@
 # CityMind –  Implementation
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/d2d03abb-0e1a-401f-82b1-e3a118af211b" />
 
 **Language: Python 3.10+**
 
